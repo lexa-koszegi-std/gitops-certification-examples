@@ -1,4 +1,4 @@
-module github.com/codefresh-contrib/gitops-secrets-sample-app
+module github.com/lexa-koszegi-std/gitops-secrets-sample-app
 
 go 1.13
 
